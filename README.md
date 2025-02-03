@@ -26,7 +26,7 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Analyzed large datasets from the NYC Taxi and Limousine Commission to predict taxi ride travel times and passenger tipping behavior.
    - **Key Techniques**: Regression and binary classification models using Python.
    - **Outcome**: Improved prediction accuracy with an RMSE of 245.48, providing actionable insights into consumer behavior and taxi service efficiency.
-   - [View Project](#)
+   - #(https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%208.ipynb)
 
 ### 2. **Bikeshare Data Regression**
    - **Overview**: Developed a model to predict the number of bikeshare rides for a given hour in Toronto, aiming to optimize city bike-share operations.
