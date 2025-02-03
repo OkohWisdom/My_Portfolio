@@ -26,18 +26,17 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Analyzed large datasets from the NYC Taxi and Limousine Commission to predict taxi ride travel times and passenger tipping behavior.
    - **Key Techniques**: Regression and binary classification models using Python.
    - **Outcome**: Improved prediction accuracy with an RMSE of 245.48, providing actionable insights into consumer behavior and taxi service efficiency.
-   - #(https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%208.ipynb)
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%208.ipynb](#)
 
 ### 2. **Bikeshare Data Regression**
    - **Overview**: Developed a model to predict the number of bikeshare rides for a given hour in Toronto, aiming to optimize city bike-share operations.
    - **Key Techniques**: Random Forest Regression, Feature Engineering.
    - **Outcome**: Achieved 91% prediction accuracy.
-   - [View Project](#)
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%201.ipynb](#)
 
 ### 3. **Gordie Howe International Bridge (GHIB) Project**
    - **Overview**: Used image processing software (ImageJ, Fiji) to analyze concrete mix design data, identifying quality control issues for a large-scale engineering project.
    - **Outcome**: Contributed to improvements in construction standards.
-   - [View Project](#)
 
 ## 👥 Leadership & Teamwork
 
