@@ -33,10 +33,27 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Key Techniques**: Random Forest Regression, Feature Engineering.
    - **Outcome**: Achieved 91% prediction accuracy.
    - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%201.ipynb](#)
-
-### 3. **Gordie Howe International Bridge (GHIB) Project**
-   - **Overview**: Used image processing software (ImageJ, Fiji) to analyze concrete mix design data, identifying quality control issues for a large-scale engineering project.
-   - **Outcome**: Contributed to improvements in construction standards.
+     
+### 3. **Lake Ontario** 
+   - **Overview**: Analyzed large datasets from the National Oceanic and Atmospheric Administration- Great Lakes Environmental Research Laboratory (NOAA- GLERL) to determine the minimum, maximum and average wave height from the three        closest grid points in the datasets to the planned location of the new waterfront facility to be built on lake Ontario.
+   - **Key Techniques**: Beautifulsoup analysis tool, pandas, data wrangling.
+   - **Outcome**: Minimum = 0.063m, Maximum = 2.629m and Average wave height = 0.932m.
+   - 
+     
+### 4. **Email Spam** 
+   - **Overview**: Developed a model to classify emails as spam or non-spam to discover how google intercepts all the spam emails, so they do not end up in the inbox.
+   - **Key Techniques**: Feature Engineering, Sklearn, Logistic Regression tool for classification. 
+   - **Outcome**: Achieved binary classification model of 75% accuracy.
+   - 
+### 5. **Ames Iowa USA**
+   - **Overview**: Analyzed large datasets from the Ames Iowa Assessor’s office and developed a regression model, detailing homes sold in Ames between 2006 and 2010 for current homebuyers in Ames, providing insights to help them make         informed decisions when purchasing a home in 2025.
+   - **Key Techniques**: Feature engineering and linear regression models, using sklearn to develop simple linear models, creating a data pipeline with pandas, and performing exploration data analysis to identify key variables.
+   - **Outcome**: Linear regression model.
+   - 
+### 6. **Toronto Bikeshare Rides** 
+   - **Overview**: Big Data project on bikeshare rides within the city of Toronto to investigate the effect of temperature on ridership numbers and to explore the consumer behaviors between the annual and casual members.
+   - **Key Techniques**: Exploratory Data Analysis and geospatial visualization tools such as matplotlib and seaborn, advanced pandas libraries for grouping and aggregating methods, resampling datetime indices and deletion of                outliers.
+   - **Outcome**: Geospatial visualizations showing the effect of temperatures on ridership numbers and the consumer behaviors between the annual and casual members.
 
 ## 👥 Leadership & Teamwork
 
