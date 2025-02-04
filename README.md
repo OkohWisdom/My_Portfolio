@@ -54,6 +54,7 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Big Data project on bikeshare rides within the city of Toronto to investigate the effect of temperature on ridership numbers and to explore the consumer behaviors between the annual and casual members.
    - **Key Techniques**: Exploratory Data Analysis and geospatial visualization tools such as matplotlib and seaborn, advanced pandas libraries for grouping and aggregating methods, resampling datetime indices and deletion of                outliers.
    - **Outcome**: Geospatial visualizations showing the effect of temperatures on ridership numbers and the consumer behaviors between the annual and casual members.
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%204.ipynb](#)
 
 ## 👥 Leadership & Teamwork
 
