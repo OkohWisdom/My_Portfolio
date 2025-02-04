@@ -49,7 +49,8 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Analyzed large datasets from the Ames Iowa Assessor’s office and developed a regression model, detailing homes sold in Ames between 2006 and 2010 for current homebuyers in Ames, providing insights to help them make         informed decisions when purchasing a home in 2025.
    - **Key Techniques**: Feature engineering and linear regression models, using sklearn to develop simple linear models, creating a data pipeline with pandas, and performing exploration data analysis to identify key variables.
    - **Outcome**: Linear regression model.
-   - 
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%206.ipynb](#)
+     
 ### 6. **Toronto Bikeshare Rides** 
    - **Overview**: Big Data project on bikeshare rides within the city of Toronto to investigate the effect of temperature on ridership numbers and to explore the consumer behaviors between the annual and casual members.
    - **Key Techniques**: Exploratory Data Analysis and geospatial visualization tools such as matplotlib and seaborn, advanced pandas libraries for grouping and aggregating methods, resampling datetime indices and deletion of                outliers.
