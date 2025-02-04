@@ -38,7 +38,7 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Analyzed large datasets from the National Oceanic and Atmospheric Administration- Great Lakes Environmental Research Laboratory (NOAA- GLERL) to determine the minimum, maximum and average wave height from the three        closest grid points in the datasets to the planned location of the new waterfront facility to be built on lake Ontario.
    - **Key Techniques**: Beautifulsoup analysis tool, pandas, data wrangling.
    - **Outcome**: Minimum = 0.063m, Maximum = 2.629m and Average wave height = 0.932m.
-   - 
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%202.ipynb](#)
      
 ### 4. **Email Spam** 
    - **Overview**: Developed a model to classify emails as spam or non-spam to discover how google intercepts all the spam emails, so they do not end up in the inbox.
