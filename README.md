@@ -61,7 +61,7 @@ I have experience working on a wide variety of projects, ranging from advanced d
 ### 7. **Public Crime and Public Space**
    - **Overview**: This project analyzes Toronto's public crime, namely car and bike thefts, using publicly available data. The analysis combines geospatial, temporal, and socio-economic data to uncover patterns and insights into            theft incidents across the city.
    - **Key Techniques**: Geospatial data analysis, clustering analysis, temporal analysis.
-   - 
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Public%20crime%20and%20%20Public%20space%20(1).pdf](#)
 
 ## 👥 Leadership & Teamwork
 
