@@ -44,7 +44,8 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Overview**: Developed a model to classify emails as spam or non-spam to discover how google intercepts all the spam emails, so they do not end up in the inbox.
    - **Key Techniques**: Feature Engineering, Sklearn, Logistic Regression tool for classification. 
    - **Outcome**: Achieved binary classification model of 75% accuracy.
-   - 
+   - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%207.ipynb](#)
+     
 ### 5. **Ames Iowa USA**
    - **Overview**: Analyzed large datasets from the Ames Iowa Assessor’s office and developed a regression model, detailing homes sold in Ames between 2006 and 2010 for current homebuyers in Ames, providing insights to help them make         informed decisions when purchasing a home in 2025.
    - **Key Techniques**: Feature engineering and linear regression models, using sklearn to develop simple linear models, creating a data pipeline with pandas, and performing exploration data analysis to identify key variables.
