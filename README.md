@@ -58,6 +58,11 @@ I have experience working on a wide variety of projects, ranging from advanced d
    - **Outcome**: Geospatial visualizations showing the effect of temperatures on ridership numbers and the consumer behaviors between the annual and casual members.
    - [https://github.com/OkohWisdom/My_Portfolio/blob/main/Project%204.ipynb](#)
 
+### 7. **Public Crime and Public Space**
+   - **Overview**: This project analyzes Toronto's public crime, namely car and bike thefts, using publicly available data. The analysis combines geospatial, temporal, and socio-economic data to uncover patterns and insights into            theft incidents across the city.
+   - **Key Techniques**: Geospatial data analysis, clustering analysis, temporal analysis.
+   - 
+
 ## 👥 Leadership & Teamwork
 
 - **Project Coordinator, CME538 Big Data Project**: Oversaw a team of 60 students in the application of data science techniques to analyze complex datasets, ensuring timely and high-quality deliverables.
